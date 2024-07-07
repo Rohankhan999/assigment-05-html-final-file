@@ -1,0 +1,26 @@
+.content{
+    background-color:lightgoldenrodyellow;
+    width: 1260px;
+    height:600px;
+   text-align: center;
+   margin-left:300px;
+   border-style: groove;
+}
+table{
+    margin-top:50px;
+}
+h1{
+    font-family: ARIAL BLACK;
+    
+}
+#i{
+    color:red;
+}
+ul li{
+    font-family: arial black;
+    font-size: x-large;
+    list-style:none;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
